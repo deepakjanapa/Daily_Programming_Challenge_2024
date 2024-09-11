@@ -1,7 +1,8 @@
 """
 Author: V S S L Deepak Janapa
 
-Find the duplicate number
+Day - 01
+Problem: Find the duplicate number
 You are given an array arr containing n+1 integers, 
 where each integer is in the range [1, n] inclusive. 
 There is exactly one duplicate number in the array, but it may appear more than once. 
