@@ -1,3 +1,11 @@
+"""
+Author: V S S L Deepak Janapa
+Find the missing number
+You are given an array arr containing n-1 distinct integers.
+The array consists of integers taken from the range 1 to n, 
+meaning one integer is missing from this sequence. 
+Your task is to find the missing integer.
+"""
 import time
 
 def find_missing_num(arr):
